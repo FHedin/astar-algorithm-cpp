@@ -14,14 +14,6 @@
 #include <stdio.h>
 #include <math.h>
 
-// #ifndef DEBUG_LISTS
-// #define DEBUG_LISTS 0
-// #endif
-
-// #ifndef DEBUG_LIST_LENGTHS_ONLY
-// #define DEBUG_LIST_LENGTHS_ONLY 0
-// #endif
-
 using namespace std;
 
 // Global data
